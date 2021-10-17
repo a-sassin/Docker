@@ -1,12 +1,14 @@
 # Docker
 
-Before containerization : 
+                                                       Before containerization : 
 ![Screenshot from 2021-10-10 22-57-26](https://user-images.githubusercontent.com/67773953/136707028-b38d9143-75e0-4ce0-aa15-fb1fcc4945d3.png)   
  
+                                                         What is a Container
 ![Screenshot from 2021-10-10 23-08-03](https://user-images.githubusercontent.com/67773953/136707130-cf1e26d0-0818-4c65-84a6-270ee74edbf6.png)
 
 ![Screenshot from 2021-10-10 23-08-07](https://user-images.githubusercontent.com/67773953/136707185-1f5352e9-f32d-44e8-8745-bf335d3f1cdb.png)
 
+                                                     Container vs Virtual Machine
 ![Screenshot from 2021-10-10 23-08-23](https://user-images.githubusercontent.com/67773953/136707187-54648497-8dd6-4c0e-850d-3d7eb0411144.png)
 
 ![Screenshot from 2021-10-10 23-14-24](https://user-images.githubusercontent.com/67773953/136707334-929d3d4f-efea-4077-873f-53034ead4a3d.png)
