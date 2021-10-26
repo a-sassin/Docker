@@ -6,7 +6,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/67773953/138901020-01d6214c-36ef-4f04-b509-6dff5a0d468b.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/67773953/138901041-110932b7-9d33-406a-b06b-786f4cd801f8.png" width="45%"></img> 
-<img src="https://user-images.githubusercontent.com/67773953/138901744-c490337c-c212-4427-ba71-9c9b70fa3927.png" width="90%"></img> 
+           <img src="https://user-images.githubusercontent.com/67773953/138901744-c490337c-c212-4427-ba71-9c9b70fa3927.png" width="60%"></img> 
 
                                                        Before containerization : 
 ![Screenshot from 2021-10-10 22-57-26](https://user-images.githubusercontent.com/67773953/136707028-b38d9143-75e0-4ce0-aa15-fb1fcc4945d3.png)   
