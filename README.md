@@ -1,6 +1,13 @@
 # Docker
 
                                                        Before containerization : 
+
+![Screenshot from 2021-10-26 20-00-16](https://user-images.githubusercontent.com/67773953/138901248-8a3cf907-e376-4267-9f6f-afaa47239609.png)
+
+
+<img src="https://user-images.githubusercontent.com/67773953/138901020-01d6214c-36ef-4f04-b509-6dff5a0d468b.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/67773953/138901041-110932b7-9d33-406a-b06b-786f4cd801f8.png" width="45%"></img> 
+
+                                                       Before containerization : 
 ![Screenshot from 2021-10-10 22-57-26](https://user-images.githubusercontent.com/67773953/136707028-b38d9143-75e0-4ce0-aa15-fb1fcc4945d3.png)   
  
                                                          What is a Container
